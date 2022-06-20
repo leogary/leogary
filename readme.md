@@ -7,8 +7,8 @@
     <td>09/2021 - present</td>
     <td>
       <b>Master of 
-      <a href="https://www.nthu.edu.tw/">National Tsing Hua University</a>, 
-      <a href="https://dcs.site.nthu.edu.tw/">Department of Computer Science</a></b>
+      <a href="https://www.nsysu.edu.tw/">National Sun Yat-sen University</a>, 
+      <a href="https://cse.nsysu.edu.tw//">Department of Computer Science</a></b>
     </td>
   </tr>
   <tr>
@@ -37,4 +37,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koyama-tsubasa&show_icons=true&locale=en&layout=compact" alt="koyama-tsubasa" />
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/K_Tsubasa?theme=forest&font=Noto%20Sans%20JP&ext=activity)devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/leogary?theme=light&font=Bellota)devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
