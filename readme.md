@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leogary&show_icons=true&locale=en&layout=compact" alt="leogary" /></p>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/lionleo103?theme=light&font=Bellota)devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/lionleo103?theme=light&font=Noto%20Sans%20JP&ext=activity)
