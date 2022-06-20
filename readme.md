@@ -37,4 +37,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koyama-tsubasa&show_icons=true&locale=en&layout=compact" alt="koyama-tsubasa" />
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/leogary?theme=light&font=Bellota)devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/lionleo103?theme=light&font=Bellota)devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
