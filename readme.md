@@ -4,7 +4,7 @@
 <h2 align="left">Education:</h2>
 <table align="center">
   <tr>
-    <td>09/2021 - present</td>
+    <td>09/2021 - 08/2023</td>
     <td>
       <b>Master of 
       <a href="https://www.nsysu.edu.tw/">National Sun Yat-sen University</a>, 
